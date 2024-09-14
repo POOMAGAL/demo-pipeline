@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: census-income
+Version: 1.0.0
+Author: poomagal
+Author-email: ctpoomagal@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
